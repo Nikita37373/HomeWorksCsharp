@@ -23,9 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12_StandartInterfaces", "12
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13_Delegates", "13_Delegates\13_Delegates.csproj", "{44731058-4B85-4F99-85E5-BDA9236951D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_Extencion", "14_Extencion\14_Extencion.csproj", "{C1ED84CB-257E-45E3-A0E5-D65028C087C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14_Extencion", "14_Extencion\14_Extencion.csproj", "{C1ED84CB-257E-45E3-A0E5-D65028C087C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_Events", "15_Events\15_Events.csproj", "{ACB9E1AF-369A-4FB5-93FB-E2F4B159AA94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15_Events", "15_Events\15_Events.csproj", "{ACB9E1AF-369A-4FB5-93FB-E2F4B159AA94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_Dictionary", "16_Dictionary\16_Dictionary.csproj", "{BBA59C3A-4D17-4F60-817B-506CDC50E664}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{ACB9E1AF-369A-4FB5-93FB-E2F4B159AA94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACB9E1AF-369A-4FB5-93FB-E2F4B159AA94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACB9E1AF-369A-4FB5-93FB-E2F4B159AA94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBA59C3A-4D17-4F60-817B-506CDC50E664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA59C3A-4D17-4F60-817B-506CDC50E664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA59C3A-4D17-4F60-817B-506CDC50E664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBA59C3A-4D17-4F60-817B-506CDC50E664}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
